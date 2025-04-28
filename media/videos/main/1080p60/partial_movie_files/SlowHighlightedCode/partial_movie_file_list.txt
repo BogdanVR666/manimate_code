@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/1080p60/partial_movie_files/SlowHighlightedCode/3529212410_4180326111_223132457.mp4'
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/1080p60/partial_movie_files/SlowHighlightedCode/3040924799_1839128356_3926216415.mp4'
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/1080p60/partial_movie_files/SlowHighlightedCode/3040924799_566167285_2915523209.mp4'
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/1080p60/partial_movie_files/SlowHighlightedCode/3040924799_2408024828_2337051694.mp4'

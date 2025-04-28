@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/480p15/partial_movie_files/CppCodeByLines/1185818338_4201650281_223132457.mp4'
-file 'file:/home/bohdan/Code/Python/manim/test1/manimations/media/videos/main/480p15/partial_movie_files/CppCodeByLines/624642324_807188262_4030925982.mp4'
